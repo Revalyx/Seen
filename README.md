@@ -10,7 +10,6 @@ La idea central es sencilla pero ambiciosa: registrar mis experiencias y, en un 
 * **Ecosistema Multiplataforma:** La información debe estar donde yo esté. Por eso, Seen está diseñada para vivir en tres entornos:
     * 🌐 **Web:** Gestión rápida y consulta desde el navegador.
     * 📱 **Android:** Registro instantáneo desde cualquier lugar.
-    * 💻 **Escritorio:** Integración profunda en mi flujo de trabajo diario.
 
 ## El horizonte social
 Actualmente, Seen es mi archivo personal, pero estoy sentando las bases para convertirla en una red social de contenido.
